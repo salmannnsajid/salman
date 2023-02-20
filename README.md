@@ -1,7 +1,7 @@
 <!-- Intro Start -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/salmannnsajid/salman">Salman Sajid</a></b><img src="wave.gif" width="30">
+                <b><a target="_blank" href="https://github.com/salmannnsajid/salmannnsajid">Salman Sajid</a></b><img src="wave.gif" width="30">
         </samp>
 </h1>
 <!-- Intro End -->
