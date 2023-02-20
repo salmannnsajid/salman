@@ -41,15 +41,6 @@
 
 <!-- Technical Skills End  -->
 
-<!-- Connection Start -->
-<!-- <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-    Let's get connected
-</h2> -->
-<!-- Connection End -->
-
 <!-- Snake Gif -->
-<!--
-![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p> -->
+![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
