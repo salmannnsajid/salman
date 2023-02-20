@@ -1,7 +1,7 @@
 <!-- Intro Start -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Esha98/Esha98">Salman Sajid</a></b><img src="wave.gif" width="30">
+                <b><a target="_blank" href="https://github.com/salmannnsajid/salman">Salman Sajid</a></b><img src="wave.gif" width="30">
         </samp>
 </h1>
 <!-- Intro End -->
@@ -42,14 +42,14 @@
 <!-- Technical Skills End  -->
 
 <!-- Connection Start -->
-<h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-    Let's get connected 
-</h2>
+<!-- <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+    Let's get connected
+</h2> -->
 <!-- Connection End -->
 
 <!-- Snake Gif -->
-
+<!--
 ![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p> -->
