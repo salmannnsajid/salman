@@ -6,7 +6,7 @@
 </h1>
 <!-- Intro End -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=salmannnsajid.salmannnsajid&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=salmannnsajid.salmannnsajid)
 
 <br>
 
