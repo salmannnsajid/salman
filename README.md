@@ -42,7 +42,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 
 <!-- Technical Skills End  -->
-
-<!-- Snake Gif -->
-
-![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
